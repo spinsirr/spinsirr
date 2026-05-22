@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" width="100%" height="auto" role="img" aria-label="Spinsirr — AI Engineer at CoreSpeed">
+  <defs>
+    <style>
+      .bg     { fill: #ffffff; }
+      .grid   { stroke: #f0f3f6; stroke-width: 1; }
+      .accent { fill: #0969da; }
+      .accent-stroke { stroke: #0969da; }
+      .head   { fill: #1f2328; }
+      .body   { fill: #59636e; }
+      .chip   { stroke: #d1d9e0; stroke-width: 1; fill: none; }
+      .chiptx { fill: #1f2328; }
+      .mute   { fill: #9198a1; }
+      .name   { fill: #1f2328; letter-spacing: 0.18em; }
+
+      @media (prefers-color-scheme: dark) {
+        .bg     { fill: #0d1117; }
+        .grid   { stroke: #161b22; }
+        .accent { fill: #58a6ff; }
+        .accent-stroke { stroke: #58a6ff; }
+        .head   { fill: #f0f6fc; }
+        .body   { fill: #9198a1; }
+        .chip   { stroke: #30363d; }
+        .chiptx { fill: #c9d1d9; }
+        .mute   { fill: #6e7681; }
+        .name   { fill: #f0f6fc; }
+      }
+    </style>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path class="grid" d="M 40 0 L 0 0 0 40" fill="none"/>
+    </pattern>
+  </defs>
+
+  <rect class="bg" width="1200" height="360"/>
+  <rect width="1200" height="360" fill="url(#grid)" opacity="0.8"/>
+
+  <line class="accent-stroke" x1="80" y1="82" x2="116" y2="82" stroke-width="2"/>
+  <text x="128" y="86" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Monaco, Consolas, monospace" font-size="11" class="name" font-weight="600">SPINSIRR</text>
+
+  <text x="80" y="172" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, system-ui, sans-serif" font-size="46" font-weight="700" class="head" style="letter-spacing:-0.02em">Building infrastructure</text>
+  <text x="80" y="222" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, system-ui, sans-serif" font-size="46" font-weight="700" class="head" style="letter-spacing:-0.02em">for <tspan class="accent">AI agents</tspan>.</text>
+
+  <text x="80" y="262" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, system-ui, sans-serif" font-size="16" font-weight="400" class="body">AI Engineer at CoreSpeed &#8226; Irvine, CA &#8226; yunpeng@corespeed.io</text>
+
+  <g font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Monaco, Consolas, monospace" font-size="12">
+    <g transform="translate(80, 292)">
+      <rect class="chip" width="76" height="28" rx="14"/>
+      <text x="38" y="18.5" text-anchor="middle" class="chiptx">sarea</text>
+    </g>
+    <g transform="translate(166, 292)">
+      <rect class="chip" width="72" height="28" rx="14"/>
+      <text x="36" y="18.5" text-anchor="middle" class="chiptx">haas</text>
+    </g>
+    <g transform="translate(248, 292)">
+      <rect class="chip" width="72" height="28" rx="14"/>
+      <text x="36" y="18.5" text-anchor="middle" class="chiptx">hmls</text>
+    </g>
+    <g transform="translate(330, 292)">
+      <rect class="chip" width="68" height="28" rx="14"/>
+      <text x="34" y="18.5" text-anchor="middle" class="chiptx">fixo</text>
+    </g>
+  </g>
+
+  <g font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Monaco, Consolas, monospace" font-size="11" class="mute">
+    <text x="1120" y="86" text-anchor="end">~/spinsirr</text>
+    <text x="1120" y="332" text-anchor="end">2026</text>
+  </g>
+
+  <line class="accent-stroke" x1="1080" y1="320" x2="1120" y2="320" stroke-width="2"/>
+</svg>
