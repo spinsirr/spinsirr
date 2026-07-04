@@ -1,6 +1,6 @@
 # Hi, I'm Spinsirr 👋
 
-📍 **Irvine, CA** | 🤖 **AI Engineer @ CoreSpeed** | 🚀 **Building agent infrastructure**
+📍 **San Jose, CA** | 🤖 **AI Engineer @ CoreSpeed** | 🚀 **Building agent infrastructure**
 
 Currently building **Sarea** and **HaaS** — making agent teams useful, one harness at a time.
 
