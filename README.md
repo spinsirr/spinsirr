@@ -1,8 +1,8 @@
 # Hi, I'm Spinsirr 👋
 
-📍 **San Jose, CA** | 🤖 **AI Engineer @ CoreSpeed** | 🚀 **Building agent infrastructure**
+📍 **San Jose, CA** | 🤖 **Founding Engineer @ CoreSpeed** | 🚀 **Building agent infrastructure**
 
-Currently building **Sarea** and **HaaS** — making agent teams useful, one harness at a time.
+Currently building **Project Nebular** (multi-agent automation) and **HaaS** — making agent teams useful, one harness at a time.
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Deno](https://img.shields.io/badge/-Deno-000000?style=flat-square&logo=deno&logoColor=white)
