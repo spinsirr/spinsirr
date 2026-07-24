@@ -29,6 +29,9 @@ Currently building **Project Nebular** (multi-agent automation) and **HaaS** —
 
 ## GitHub Activity
 
+<!-- lifetime lines authored (git additions, code files) across public + CoreSpeed repos; static — rerun scratchpad scripts to refresh -->
+![Lines of Code](https://img.shields.io/badge/lines_of_code-520k-3178C6?style=flat-square) written lifetime across 34 repos
+
 ![GitHub Contribution Graph](https://ghchart.rshah.org/spinsirr)
 
 ## What I'm Doing
