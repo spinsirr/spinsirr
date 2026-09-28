@@ -19,6 +19,7 @@ I build agent infrastructure — gateways, billing, app access and memory — an
 ### Side projects
 
 - 🔧 **[Fixo](https://fixo.ink)** — AI service advisor for independent repair shops: drafts estimates and schedules work, with a human signing off. Started in 2024 as HMLS, a mobile-mechanic platform.
+- 🐝 **[Hive](https://github.com/spinsirr/hive)** — a multiplayer coding-agent workspace: Claude Code or Codex runs in a cloud sandbox while teammates join the task to steer and review the changes. [Try the demo](https://hive-roan-mu.vercel.app/demo).
 - 📣 **[BuildLog](https://buildlog.ink)** — turns commits, PRs and releases into draft posts for X, LinkedIn and Bluesky.
 - 📦 **[OrderCue](https://github.com/spinsirr/order-wizard)** — a local-first browser extension that turns Amazon orders into a follow-up queue for reimbursements and resale.
 
